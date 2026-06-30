@@ -88,5 +88,16 @@ scannet_auditoria_AAAA-MM-DD.nmap: Log textual tradicional da infraestrutura.
 O SCANNET é e sempre será gratuito, aberto e livre de interesses comerciais. Toda a engenharia investida em criar e testar este script em múltiplas arquiteturas e distribuições foi feita de forma voluntária para fortalecer a comunidade global de segurança cibernética.
 
 Manter o código atualizado, testar novas versões de sistemas operacionais e expandir as automações de relatórios exige tempo contínuo de laboratório e dedicação. Se esta ferramenta ajudou sua organização a economizar com licenças caras, otimizou sua rotina técnica ou auxiliou na sua auditoria de conformidade, você pode apoiar voluntariamente a continuidade e manutenção de infraestrutura do projeto através de uma doação.
+## 💙 Apoie este Projeto Open Source
+
+Se este software te ajudou, considere fazer uma contribuição para ajudar a manter o desenvolvimento ativo e as atualizações de segurança:
+
+### ⚡ Pix (Brasil)
+Use a chave aleatória abaixo no aplicativo do seu banco:
+`a850f586-0189-4867-bae3-93830e58dcff`
+
+### ₿ Bitcoin
+Envie qualquer valor para o endereço oficial do projeto:
+`bc1qr5ka6pjhtkh4rk7k4tgppy3k7svksa2nllr560wrvsjgskz3lm5qxy7f6p`
 
 Toda contribuição é opcional, direcionada integralmente à sustentabilidade técnica da ferramenta e altamente apreciada!
