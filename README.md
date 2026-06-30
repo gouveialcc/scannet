@@ -62,7 +62,7 @@ O **SCANNET** gerencia suas próprias dependências de forma autônoma. Você s�
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/scannet.git](https://github.com/seu-usuario/scannet.git)
+   git clone [https://github.com/gouveialcc/scannet/blob/main/scannet.git)
    cd scannet
 
 Conceda permissão de execução ao script:
